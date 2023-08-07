@@ -1,6 +1,7 @@
 # EFI-AMD-RYZEN-5-4600G
 Uma EFI pronta para os processadores AMD RYZEN 5 4600G.
 
+
 Além de tudo, ela está funcionando:
 
 Aceleração De hardware(apenas nos graficos, nao em DRM e etc)
@@ -13,3 +14,5 @@ bluetooth
 microfone
 audio
 updates - ate o sonoma
+
+# Rodando OpenCore 0.9.4(ultima lançada)
